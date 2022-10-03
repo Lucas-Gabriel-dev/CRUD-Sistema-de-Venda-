@@ -14,7 +14,7 @@ O .NET 6 foi o framework escolhido para desenvolver a aplicação, utilizando a 
 Como linguagem de programação foi escolhida o C#, já que é uma linguagem que trabalha perfeitamente em conjunto com .NET.
 <br>
 <br>
-#### A API expõe uma rota com documentação swagger
+####  * A API expõe uma rota com documentação swagger *
 <h4 align="center">
 ✅  Sistema de Vendas  🚀 Concluído!!!  ✅
 </h4>
