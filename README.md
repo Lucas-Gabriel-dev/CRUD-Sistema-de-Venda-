@@ -8,8 +8,6 @@ Sistema de Vendas é um CRUD realizado em .NET Core com a linguagem de programa�
 
 ## .NET
 O .NET 6 foi o framework escolhido para desenvolver a aplicação, utilizando a WebApi.
-
-<br>
 <br>
 
 ## C#
